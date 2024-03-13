@@ -1,0 +1,13 @@
+id	en1	en2	relation	pos1	pos2	time	sent
+mount_wutai	world_heritage_site
+0	mount_wutai	world_heritage_site	NA	24	0	2008-1-1	In <t>, there were complaints from local residents that, in preparation for Mount Wutai's bid to become a UNESCO World Heritage Site, they were forced from their homes and relocated away from their livelihoods.
+1	mount_wutai	world_heritage_site	NA	16	24	2008-1-1	In <t>, there were complaints from local residents that, in preparation for Mount Wutai's bid to become a UNESCO World Heritage Site, they were forced from their homes and relocated away from their livelihoods.
+2	mount_wutai	world_heritage_site	heritage_designation	6	0	2009-1-1	It was inscribed as a UNESCO World Heritage Site in <t>. Mount Wǔtái is one of the Four Sacred Mountains in Chinese Buddhism.
+
+scottish_television	theatre_royal_glasgow
+0	scottish_television	theatre_royal_glasgow	NA	6	0	1895-7-1	, the theatre was sold to Scottish Television in a joint venture with Howard & Wyndham Ltd (who moved their own shows to their new flagship the Alhambra Theatre in Waterloo Street) for conversion of the Royal into a Scottish Television Theatre, studios and offices, becoming the main home for the commercial ITV network in central Scotland.
+1	scottish_television	theatre_royal_glasgow	NA	41	0	1895-7-1	, the theatre was sold to Scottish Television in a joint venture with Howard & Wyndham Ltd (who moved their own shows to their new flagship the Alhambra Theatre in Waterloo Street) for conversion of the Royal into a Scottish Television Theatre, studios and offices, becoming the main home for the commercial ITV network in central Scotland.
+2	scottish_television	theatre_royal_glasgow	headquarters_location	6	0	1957-8-31	As a base he bought the Theatre Royal, Glasgow from Howard & Wyndham Ltd, who became minor partners in the new venture.
+3	scottish_television	theatre_royal_glasgow	headquarters_location	5	0	1962-1-1	In <t>, Scottish Television moved to custom-built premises next door and offered the Theatre Royal to Scottish Opera who bought it with public support, converting it to become its home theatre and Scotland's first national opera house.
+4	scottish_television	theatre_royal_glasgow	NA	14	18	2015-1-12	From the station's launch in <t> until <t>, Scottish Television used the Theatre Royal, Glasgow on Hope Street as their main studio base and headquarters.
+5	scottish_television	theatre_royal_glasgow	NA	18	0	2015-1-12	From the station's launch in <t> until <t>, Scottish Television used the Theatre Royal, Glasgow on Hope Street as their main studio base and headquarters.
